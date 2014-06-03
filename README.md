@@ -10,4 +10,6 @@ This application is still in development and has not yet been fully tested.
 4. After execution is complete, your output file will contain status information about each field.
 
 ##Notes
-Currently does not support Encrypted Text fields. 
+Currently does not support Encrypted Text fields.
+
+Currently does not support modifying field level security.
